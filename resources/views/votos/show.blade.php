@@ -3,8 +3,9 @@
 @section('title', 'Votos show')
 
 @section('content')
-    
-    <h3>Voto Registrado</h3>
+
+<h1 class="logo">basetis</h1>
+<h3>Voto Registrado</h3>
     
 @endsection
 
